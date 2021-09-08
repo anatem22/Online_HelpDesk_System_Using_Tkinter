@@ -28,21 +28,21 @@ There will be a searching option on which user can
 search by related keyword , If the related data will 
 be there then it will be displayed. 
 
-**Bus Data:
+**Bus Data:**
 
 In this module user can find information related to bus. When user will find by the appropriate keyword he/she will get right results.
 
-**Admission information:
+**Admission information:**
 
 In this module user can find information related to college admission. User can search any information regarding to admission. It can help user to easily get the related information.
 
-Account Section Details:
+**Account Section Details:**
 In this module user can find any of the information related to Account section. There a user can find the details related to fees about any student. 
 
-HOD Information:
+**HOD Information:**
 In this module anyone can find the information related to HOD’s of any department easily. It helps user to reach quickly to an faculty.
 
-Placement Details:
+**Placement Details:**
 User can get information related to placement . There user can find that which companies drive in the college and many more. 
 
 ![image](https://user-images.githubusercontent.com/87146622/132512001-526f2b33-10a0-4a9c-beb8-0b123216605c.png)
@@ -57,5 +57,14 @@ User can get information related to placement . There user can find that which c
 
 ![image](https://user-images.githubusercontent.com/87146622/132511643-c6da3365-502a-4aa0-989b-a30b0faf6975.png)
 
+![image](https://user-images.githubusercontent.com/87146622/132532222-da6e8dde-b93a-4928-b645-e0526c8eb263.png)
 
+**BOOKS –**  
+Python GUI Programming with Tkinter by Alan Moore  
+
+**Links -**  
+
+www.pythonprogramming.net  
+
+www.youtube.com![image]  
 
