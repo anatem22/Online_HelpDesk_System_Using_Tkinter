@@ -1,12 +1,13 @@
 ![image](https://user-images.githubusercontent.com/87146622/132512883-4962367d-9184-4124-a944-1b12ea084118.png)
 
-This repository contains the project which aimed at developing an online helpdesk(OHD) for the facilities in the campus.
+**This repository contains the project which aimed at developing an online helpdesk(OHD) for the facilities in the campus.
 It allows end users to submit and track issues and questions that need to be addressed by support staff.
 This software is efficient in maintaining the records related college. User can easily use the restored data by searching from particular keyword. This software also enhance the searching for the unknown user . It provides all the essential information to the unknown user. The history of the user will also be stored in the software. 
 
 ![image](https://user-images.githubusercontent.com/87146622/132512658-f75d899c-c5e3-4d6f-8145-b2fe285750f4.png)
 
-#Home page:
+**Home page:
+
 This module will display all the information about the software. User can find ease to reach any of the other module.
     
 #Guest record : 
