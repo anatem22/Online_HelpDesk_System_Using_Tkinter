@@ -21,16 +21,19 @@ There will be a searching option on which user can
 search by related keyword , If the related data will 
 be there then it will be displayed.  
 
-Faculties data :
+**Faculties data :
+
 In this module user can search Faculties data.
 There will be a searching option on which user can
 search by related keyword , If the related data will 
 be there then it will be displayed. 
 
-Bus Data:
+**Bus Data:
+
 In this module user can find information related to bus. When user will find by the appropriate keyword he/she will get right results.
 
-Admission information:
+**Admission information:
+
 In this module user can find information related to college admission. User can search any information regarding to admission. It can help user to easily get the related information.
 
 Account Section Details:
