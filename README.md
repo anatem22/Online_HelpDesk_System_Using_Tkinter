@@ -10,10 +10,12 @@ This software is efficient in maintaining the records related college. User can 
 
 This module will display all the information about the software. User can find ease to reach any of the other module.
     
-#Guest record : 
+**Guest record : 
+
 In this module user will submit there basic information like phone  number etc. And then there will be option by which user can search which he/she wants to search .once he /she will submit his information ,it will automatically display the Guest record. 
 
-#Student Record System:
+**Student Record System:
+
 In this module user can search student record.
 There will be a searching option on which user can
 search by related keyword , If the related data will 
